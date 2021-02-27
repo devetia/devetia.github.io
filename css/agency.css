@@ -39,8 +39,9 @@ section {
   padding: 100px 0;
 }
 
+
 section h2.section-heading {
-  font-size: 40px;
+  font-size: 35px;
   margin-top: 0;
   margin-bottom: 15px;
 }
@@ -188,7 +189,7 @@ header.masthead .intro-text .intro-lead-in {
 }
 
 header.masthead .intro-text .intro-heading {
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 700;
   line-height: 50px;
   margin-bottom: 25px;
